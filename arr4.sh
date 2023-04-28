@@ -7,7 +7,7 @@ echo "in printme function"
 #end of printme function
 
 #main script
-echo "this is main script"
+echo "this is main script" modified
 #calling printme function
 printme
 echo "back to main script"
