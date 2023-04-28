@@ -1,4 +1,5 @@
 #!/bin/bash
+modify
 #demonstrate arry variable
 declare -a a #this is how you declare arry variable.
 read -p "enter first value:" a[0]
