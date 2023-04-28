@@ -16,4 +16,4 @@ colorme green
 echo $? #this prints the function returened value.
 echo "Again in main program"
 
-#end
+#end of the script
