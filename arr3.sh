@@ -1,7 +1,7 @@
 #read an arry elements from the keyboard
 #define arry a
 declare -a a
-modified
+modified by bhavya
 read -p "enter the size of an array" n
 for ((i=0;i<n;i++))
 do
